@@ -5,6 +5,8 @@
 
 This repository will contain all the solutions to the coding questions of course "Interview Preparation with C++" by **Coding Blocks**.
 
+If you have any questions regarding the solutions, please feel free to contact me divyanshudob@gmail.com.
+
 ## Resources in repository
 
 1. [Arrays](https://github.com/divyanshudob/CodingBlocks_HackerBlocks_Solutions/tree/main/Arrays) = 15 Questions
