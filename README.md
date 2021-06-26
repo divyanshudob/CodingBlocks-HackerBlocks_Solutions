@@ -4,7 +4,7 @@
 <img align="right" height="100" src="https://hack.codingblocks.com/app/images/logo_white-42cdddaf175a7f6e36f26c77a6eebf86.png" width="100">
 </p>
 
-This repository will contain all the solutions to the coding questions of course "Interview Preparation with C++" by **Coding Blocks**.
+This repository will contain all the solution to the coding questions of course "Interview Preparation with C++" by **Coding Blocks**.
 
 If you have any questions regarding the solutions, please feel free to contact me divyanshudob@gmail.com.
 
