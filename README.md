@@ -1,7 +1,7 @@
 # CodingBlocks_HackerBlocks_Solutions
 <p>
-<img align = "left" src="https://minio.codingblocks.com/amoeba/OnlineLogo2020.svg">
-<img align = "right" src="https://minio.codingblocks.com/amoeba/OnlineLogo2020.svg">
+<img height = "100" align = "left" src="https://minio.codingblocks.com/amoeba/OnlineLogo2020.svg">
+<img height = "100" align = "right" src="https://minio.codingblocks.com/amoeba/OnlineLogo2020.svg">
 </p>
 
 
