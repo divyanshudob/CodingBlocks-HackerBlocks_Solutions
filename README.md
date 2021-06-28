@@ -10,5 +10,8 @@ This repository will contain all the solutiton to the problems available on Inte
 
 # Resources in Repository
 
-1. [Arrays](https://github.com/divyanshudob/CodingBlocks-HackerBlocks_Solutions/tree/main/Arrays) = 15 Questions 
-2. [Strings](https://github.com/divyanshudob/CodingBlocks-HackerBlocks_Solutions/tree/main/Strings) = 11 Questions
+
+| Topic Name| Number of Problems Solved| 
+|  :--------: |  :--------: | 
+| [Arrays](https://github.com/divyanshudob/CodingBlocks-HackerBlocks_Solutions/tree/main/Arrays)| 15|
+| [Strings](https://github.com/divyanshudob/CodingBlocks-HackerBlocks_Solutions/tree/main/Strings)| 11|
