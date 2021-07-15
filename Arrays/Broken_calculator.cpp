@@ -1,5 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
+//code
  int main()
  {
      int n;
