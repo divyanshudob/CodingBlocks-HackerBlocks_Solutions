@@ -4,7 +4,7 @@
 <img height = "100" align = "right" src="https://minio.codingblocks.com/amoeba/OnlineLogo2020.svg">
 </p>
 
-This repository will contain all the solutiton to the problems available on Interviewbit platform. If you have any doubts regarding the repository, please feel free to contact divyanshudob@gmail.com.
+This repository will contain all the solutiton to the problems available on HackerBlocks platform. If you have any doubts regarding the repository, please feel free to contact divyanshudob@gmail.com.
 
 
 
